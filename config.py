@@ -1,0 +1,8 @@
+TOP_N = 3
+PORTFOLIO_TOP_N = 5
+LOOKBACK_DAYS = 180
+CACHE_PATH = "data/daily_cache.json"
+
+DEFAULT_UNIVERSE = [
+    "AAPL","MSFT","NVDA","AMZN","META","GOOGL"
+]
